@@ -1,3 +1,4 @@
+ID: 11174541
 arrayManipulation.js
 This JavaScript file provides utility functions for manipulating arrays. It includes three tasks: processing numerical arrays, formatting string arrays based on corresponding numerical arrays, and creating user profiles from two name arrays.
 
